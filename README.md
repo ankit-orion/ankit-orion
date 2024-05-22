@@ -2,11 +2,23 @@
 
 I'm passionate about full-stack web development, exploring the ever-evolving world of technology. My journey involves crafting seamless and user-friendly web experiences by leveraging a range of technologies and frameworks.
 
-###
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=ankit-orion&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-orion&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Languages and Tools
+
+<p align="left"> <a href="https://github.com/ankit-orion"><img src="https://skillicons.dev/icons?i=vscode,github,python,mongodb,css,html,js,express,nodejs"> </a> </p>
+
+## My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=ankit-orion&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
+
+## Activity On GitHub
+
+<p align="center">
+  <a href="https://github.com/ankit-orion">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-orion&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
+
 
 ###
   <table>
