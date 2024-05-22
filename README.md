@@ -8,6 +8,27 @@ I'm passionate about full-stack web development, exploring the ever-evolving wor
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-orion&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/ankit-orion"><img src="https://github.com/ankit-orion.png" alt="@ankit-orion" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/ankit-orion"><b>ankit-orion</b></a>
+        </b>
+      </td> -->
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/ankit-orion"> <img src="https://komarev.com/ghpvc/?username=ankit-orion&style=for-the-badge&color=brightgreen"></a>
+      </td>
+    </tr>
+  </table>
+
 #### 🔧 Tech Stack:
 - Frontend: HTML, CSS, Tailind CSS, JavaScript, React ⚛️
 - Backend: Node.js, Express 🚀
