@@ -27,7 +27,8 @@ I'm passionate about full-stack web development, exploring the ever-evolving wor
       </td>
     </tr>
   </table>
-## My Stats:
+  
+## My Stats
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ankit-orion&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
@@ -41,13 +42,13 @@ I'm passionate about full-stack web development, exploring the ever-evolving wor
 </p>
 
 
-#### 🔧 Tech Stack:
+## 🔧 Tech Stack:
 - Frontend: HTML, CSS, Tailind CSS, JavaScript, React ⚛️
 - Backend: Node.js, Express 🚀
 - Database: MongoDB, MySQL 📊
 - Tools: Git, VSCode 🛠️
 
-#### 🤝 Let's Connect:
+## 🤝 Let's Connect:
 - LinkedIn: <a href="https://www.linkedin.com/in/ankit-orion/">Ankit Mishra</a>
 
 Feel free to explore my repositories, and don't hesitate to connect or collaborate on exciting projects!
